@@ -1,0 +1,21 @@
+dependencies: []
+devassistant_version: 0.11.2
+original_kwargs:
+  author: "Miguel Vaello Mart\xEDnez"
+  bugreports: ''
+  crt: crt
+  description: A DevAssistant assistant for testing purpose
+  dirname: try_devassistant
+  email: $(git config --global user.email)
+  extra: extra
+  github: null
+  homepage: FIXME
+  license: MIT
+  name: Try DevAssistant
+  prep: prep
+  snippet: snippet
+  summary: A simple testing DA
+  twk: twk
+  version: 0.0.1
+project_type:
+- dap

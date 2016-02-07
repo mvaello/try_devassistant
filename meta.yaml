@@ -1,0 +1,7 @@
+package_name: Try_DevAssistant
+version: 0.0.1
+license: MIT
+summary: A simple testing DA
+homepage: FIXME
+authors: [Miguel Vaello Martínez <miguel.vaellomartinez@gmail.com>]
+description: A DevAssistant assistant for testing purpose
